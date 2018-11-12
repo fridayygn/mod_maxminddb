@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 1.1.0 - 2016-10-19
 
 * Fail loudly if any configured `MaxMindDBFile`s don't exist.
@@ -6,6 +7,8 @@
 * `MaxMindDBEnv` now takes exactly two arguments. Previously, it allowed more
   arguments but ignored all but one set of arguments.
 
+=======
+>>>>>>> parent of 4f94610... Update changelog
 ## 1.0.1 - 2015-03-16
 
 * The module is now compiled with the `-std=c99 -fms-extensions` flags. This
